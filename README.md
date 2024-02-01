@@ -1,11 +1,10 @@
-# ☝️🤓 BING CHILLING
-## ☝️🤓 BING CHILLING
-### ☝️🤓 BING CHILLING
-#### ☝️🤓 BING CHILLING
-##### ☝️🤓 BING CHILLING
-###### ☝️🤓 BING CHILLING
+MAVEN
 ```
-BING CHILLING
+<dependency>
+  <groupId>io.github.chiangkaishek327</groupId>
+  <artifactId>tools</artifactId>
+  <version>1.0<version>
+</dependency>
 ```
 I m too lazy so I mak this package
 
