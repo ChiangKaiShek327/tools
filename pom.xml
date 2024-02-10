@@ -6,7 +6,7 @@
 
     <groupId>io.github.chiangkaishek327</groupId>
     <artifactId>tools</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>as name </description>
     <url>https://github.com/chiangkaishek327/tools</url>
